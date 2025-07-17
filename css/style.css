@@ -49,7 +49,7 @@ body {
 /* Texto de boas-vindas ou saudação */
 .greetings {
     font-size: 7rem;
-    font-weight: 900;
+    font-weight: 500;
     display: flex; /* Para facilitar o controle dos spans */
     flex-wrap: wrap; /* Para ajustar em telas menores, se necessário */
     justify-content: center;
